@@ -19,8 +19,10 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
