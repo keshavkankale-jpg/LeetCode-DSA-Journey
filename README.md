@@ -8,6 +8,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0007-reverse-integer](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,8 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 <!---LeetCode Topics End-->
