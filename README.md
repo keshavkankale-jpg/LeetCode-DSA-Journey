@@ -23,6 +23,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [1920-build-array-from-permutation](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -52,4 +53,8 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
