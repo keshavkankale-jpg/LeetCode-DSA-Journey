@@ -24,6 +24,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [1920-build-array-from-permutation](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
@@ -53,6 +54,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
