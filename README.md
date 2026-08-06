@@ -28,6 +28,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0136-single-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -67,4 +68,8 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
