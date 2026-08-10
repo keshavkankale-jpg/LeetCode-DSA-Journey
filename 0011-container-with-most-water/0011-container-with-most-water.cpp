@@ -10,13 +10,13 @@ public:
             int length=right-left;
             int h=min(height[left],height[right]);
             int current_area=length*h;
-            
-            max_area=max(current_area,max_area);
 
-            if(height[left]<height[right]){
+            max_area=max(current_area,max_area);
+            
+            while (left < right && height[left] <= h) {
                 left++;
             }
-            else{
+            while (left < right && height[right] <= h) {
                 right--;
             }
         }
