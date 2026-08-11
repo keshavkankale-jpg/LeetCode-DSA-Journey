@@ -40,6 +40,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
@@ -93,4 +94,8 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
