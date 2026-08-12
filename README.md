@@ -38,6 +38,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0088-merge-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -89,6 +90,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -97,5 +99,10 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
