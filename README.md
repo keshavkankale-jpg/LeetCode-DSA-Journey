@@ -43,6 +43,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0283-move-zeroes](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1920-build-array-from-permutation](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -92,6 +93,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,8 +103,10 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
