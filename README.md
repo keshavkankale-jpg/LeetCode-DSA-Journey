@@ -16,6 +16,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0001-two-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -83,6 +85,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
 ## Binary Search
