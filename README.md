@@ -61,6 +61,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -116,4 +117,8 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
