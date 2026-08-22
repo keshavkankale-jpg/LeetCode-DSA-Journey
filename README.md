@@ -26,6 +26,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -57,11 +58,13 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -73,6 +76,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Bit Manipulation
 |  |
