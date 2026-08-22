@@ -11,6 +11,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0050-powx-n](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
