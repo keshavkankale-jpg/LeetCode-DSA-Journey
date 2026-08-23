@@ -13,6 +13,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1927-sum-game](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
+| [1927-sum-game](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +82,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0011-container-with-most-water](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1927-sum-game](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,4 +130,8 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
