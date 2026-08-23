@@ -13,6 +13,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0258-add-digits](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1927-sum-game](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -90,6 +91,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0136-single-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
