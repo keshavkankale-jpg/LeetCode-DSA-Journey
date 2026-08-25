@@ -6,10 +6,11 @@ public:
         }
         int sum=1;
         int x=num;
-        for(int i=2; i<num; i++){
+        for(int i=2; i*i<=num; i++){
            if(num%i==0){
-            sum=sum+i;
+            sum=sum+i+(num/i);
            }
+           
         }
         if(sum==x){
             return true;
