@@ -36,6 +36,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +89,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1927-sum-game](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0001-two-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -144,4 +147,12 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
