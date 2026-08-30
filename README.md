@@ -56,6 +56,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0643-maximum-average-subarray-i](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1920-build-array-from-permutation](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
@@ -134,6 +135,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
