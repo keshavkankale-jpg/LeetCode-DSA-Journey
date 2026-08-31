@@ -143,6 +143,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Game Theory
 |  |
 | ------- |
