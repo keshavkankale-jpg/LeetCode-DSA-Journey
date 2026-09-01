@@ -52,6 +52,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -135,6 +136,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0724-find-pivot-index) |
