@@ -33,6 +33,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
@@ -107,6 +108,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -136,6 +138,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
