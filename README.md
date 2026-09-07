@@ -54,6 +54,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0238-product-of-array-except-self) |
@@ -110,6 +111,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0001-two-sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -117,6 +119,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0015-3sum](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -136,6 +139,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +174,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -179,4 +184,8 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0303-range-sum-query-immutable) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
