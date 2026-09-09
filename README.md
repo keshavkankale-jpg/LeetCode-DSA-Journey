@@ -35,6 +35,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
+| [0242-valid-anagram](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -115,6 +116,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -125,6 +127,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0088-merge-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
