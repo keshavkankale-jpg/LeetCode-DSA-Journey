@@ -3,22 +3,17 @@ public:
     int majorityElement(vector<int>& nums) {
         int n=nums.size();
 
-       int element=0;
-       int count=0;
+        unordered_map<int,int> mpp;
 
-       for(int i=0; i<n; i++){
-        if(count==0){
-            element=nums[i];
-            count=1;
+        for(int i=0; i<n; i++){
+            mpp[nums[i]]++;
         }
-        else if(element==nums[i]){
-            count++;
+        for(int i=0; i<n; i++){
+            if(mpp[nums[i]]>(n/2)){
+                return nums[i];
+            }
         }
-        else{
-            count--;
-        }
-       }
-       return element;
+        return -1;
         
     }
 };
