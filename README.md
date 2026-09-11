@@ -50,6 +50,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0136-single-number) |
@@ -83,6 +84,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -148,6 +150,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
