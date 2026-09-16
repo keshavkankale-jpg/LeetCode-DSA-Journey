@@ -3,13 +3,12 @@ public:
     int maxSubarraySumCircular(vector<int>& nums) {
         int n=nums.size();
 
-        int total_sum=0;
-        
         int max_sum=INT_MIN;
         int min_sum=INT_MAX;
-        int current_min=0;
+        int total_sum=0;
         int current_max=0;
-        
+        int current_min=0;
+
         for(int i=0; i<n; i++){
             total_sum+=nums[i];
 
@@ -27,13 +26,15 @@ public:
 
         }
         int sum=total_sum-min_sum;
-             if(max_sum<0){
-                return max_sum;
-             }
 
-             if(sum>max_sum){
-                return sum;
-             }
+        if(max_sum<0){
+            return max_sum;
+        }
+
+        if(sum>max_sum){
+            return sum;
+        }
+
         return max_sum;
         
     }
