@@ -53,6 +53,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0031-next-permutation](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0075-sort-colors) |
@@ -239,5 +240,6 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
