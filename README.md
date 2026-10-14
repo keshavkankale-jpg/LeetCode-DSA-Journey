@@ -106,6 +106,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0024-swap-nodes-in-pairs](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -194,6 +195,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Game Theory
 |  |
