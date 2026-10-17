@@ -32,6 +32,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -196,6 +197,7 @@ DSA journey! Tracking my LeetCode problem-solving progress in C++ with optimized
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keshavkankale-jpg/LeetCode-DSA-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Game Theory
 |  |
